@@ -1,4 +1,4 @@
-const cacheName = 'PingPong';
+const cacheName = 'pingpong';
 
 
 const staticAssets = [ 
